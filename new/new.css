@@ -1,0 +1,20 @@
+.title{
+    background-color: #530602;
+    color: #fff;
+    height: 140px;
+    line-height: 140px;
+}
+
+.dashbrd{
+    background-color: #1defef;
+    color: #000;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 140px;
+    line-height: 39px;
+    font-size: 25px;
+}
+
+.dashboard a{
+    color: red;
+}
